@@ -3,4 +3,4 @@ JavaScript Patterns
 
 Object Oriented JavaScript Patterns
 
-- Prototype Pattern
+- Prototype Pattern - PrototypePattern.js
