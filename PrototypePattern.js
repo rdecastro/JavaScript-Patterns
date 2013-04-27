@@ -1,4 +1,5 @@
 ﻿// Prototype Pattern
+//
 // Usage: 
 // 
 // var theInstance = new PrototypePattern();
