@@ -1,4 +1,6 @@
-JavaScript-Patterns
+JavaScript Patterns
 ===================
 
-JavaScript Patterns
+Object Oriented JavaScript Patterns
+
+- Prototype Pattern
