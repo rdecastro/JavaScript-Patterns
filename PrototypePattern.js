@@ -7,6 +7,7 @@
 
 var PrototypePattern = function () {
 
+    // Public Properties
     this.publicVariableA = 'A value';
     this.publicVariableB = 'B value';
 
@@ -14,6 +15,7 @@ var PrototypePattern = function () {
 
 PrototypePattern.prototype = {
 
+    // Public Methods
     publicMethodA: function () {
         var privateVariableA = 'hello world!';
         return privateVariableA;
